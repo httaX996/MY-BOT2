@@ -9,8 +9,8 @@
     "restart": "pm2 restart CK-BOT"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "7.0.0-rc.8",
-    "gifted-btns": "^1.0.0",
+    "@whiskeysockets/baileys": "7.0.0-rc.2",
+    "gifted-btns": "1.0.2",
     "api-dylux": "latest",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/yt-dl.js": "latest",
